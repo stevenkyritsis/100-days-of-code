@@ -5,17 +5,14 @@
 
 **Today's Progress**: Setup the environment.
 
-**Thoughts:** The course I'm using recommends using VSCode for my environment as well as downloading the LTS of NodeJS. 
+**Thoughts:** The course I'm using recommends using VSCode for my environment as well as downloading the LTS of NodeJS.
 
-[comment]: <> (This is a comment, it will not be included)### Day 0: February 30, 2016 Example 2)##### (delete me or comment me out)**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: January 7, 2022
 
+**Today's Progress**: Built an entirely functional web counter app using HTML, CSS, and JavaScrpit. 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** JavaScript (which I will be referring to as JS) isn't as difficult as I thought it was going to be. I'm actually learning a lot about HTML and CSS along the way! :)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Counter App](https://github.com/stevenkyritsis/100-days-of-code/tree/master/Day%201%20-%20Counter%20App)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
